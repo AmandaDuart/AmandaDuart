@@ -1,6 +1,6 @@
 ## Olá, eu sou Amanda Duarte! 😊
 
-- 🔭 Atualmente trabalho como Engenheira de Software Pleno
+- 🔭 Atualmente trabalho como Tech Lead
 - 🎇 MBA em Engenharia de Software
 - 😄 Pronouns: ela/dela
 
